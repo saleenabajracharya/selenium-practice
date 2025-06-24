@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-26T15:23:38 NPT" name="Command line suite" finished-at="2025-05-26T15:23:49 NPT" duration-ms="11000">
+    <groups>
+    </groups>
+    <test started-at="2025-05-26T15:23:38 NPT" name="Command line test" finished-at="2025-05-26T15:23:49 NPT" duration-ms="11000">
+      <class name="com.example.selenium.ElementPositionTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.selenium.ElementPositionTest@17c1bced]" started-at="2025-05-26T15:23:38 NPT" name="setUp" finished-at="2025-05-26T15:23:43 NPT" duration-ms="5121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getPositionDimension()[pri:0, instance:com.example.selenium.ElementPositionTest@17c1bced]" started-at="2025-05-26T15:23:43 NPT" name="getPositionDimension" finished-at="2025-05-26T15:23:43 NPT" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPositionDimension -->
+      </class> <!-- com.example.selenium.ElementPositionTest -->
+      <class name="com.example.selenium.HelloTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.selenium.HelloTest@358c99f5]" started-at="2025-05-26T15:23:43 NPT" name="setUp" finished-at="2025-05-26T15:23:48 NPT" duration-ms="4346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testWorkingInBothWindowTabs()[pri:0, instance:com.example.selenium.HelloTest@358c99f5]" started-at="2025-05-26T15:23:48 NPT" name="testWorkingInBothWindowTabs" finished-at="2025-05-26T15:23:49 NPT" duration-ms="1450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWorkingInBothWindowTabs -->
+      </class> <!-- com.example.selenium.HelloTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
