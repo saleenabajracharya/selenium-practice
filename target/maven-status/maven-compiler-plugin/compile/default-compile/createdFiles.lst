@@ -1,5 +1,7 @@
 com/seleniumdemo/LoginTest.class
-com/seleniumdemo/FileUploadTest.class
+com/seleniumdemo/DropdownTest.class
+com/seleniumdemo/AlertExample.class
 com/seleniumdemo/MultipleBrowserTest.class
 com/seleniumdemo/Screenshot.class
-com/seleniumdemo/App.class
+com/seleniumdemo/SeleniumGrid.class
+com/seleniumdemo/FileUploadTest.class
